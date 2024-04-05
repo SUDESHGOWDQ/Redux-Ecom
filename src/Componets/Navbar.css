@@ -1,0 +1,13 @@
+nav{
+    height: 100px;
+    width: 100%;
+    background: white;
+    box-shadow:  0 0  30px grey;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.navdiv{
+}

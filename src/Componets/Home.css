@@ -1,0 +1,19 @@
+.Home{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+
+.cards{
+    border: 1px solid black;
+    height: auto;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 0 30px grey;
+    background: white;
+    margin: 10px;
+}
